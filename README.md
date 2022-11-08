@@ -1,2 +1,2 @@
-# OSINT
-OSINT Jupyter
+# OSINT Script Development
+Python script development area for common OSINT tasks
